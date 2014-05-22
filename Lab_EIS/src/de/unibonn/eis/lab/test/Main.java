@@ -1,4 +1,4 @@
-package unibonn.eis.lab.test;
+package de.unibonn.eis.lab.test;
 
 import org.apache.jena.atlas.io.IndentedWriter;
 import org.apache.log4j.Logger;
