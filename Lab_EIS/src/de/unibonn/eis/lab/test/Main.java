@@ -18,6 +18,8 @@ import com.hp.hpl.jena.util.FileManager;
 import com.hp.hpl.jena.vocabulary.RDF;
 
 public class Main {
+	//this my commit - Rauf Agayev
+	//this my commit - Carlos
 	public static void main(String[] args) {
 		String service = "http://dbpedia.org/sparql";
 		String query = "SELECT" + "*" + "WHERE" + "{"
