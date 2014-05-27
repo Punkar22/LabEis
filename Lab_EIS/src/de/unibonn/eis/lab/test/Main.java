@@ -20,6 +20,7 @@ import com.hp.hpl.jena.vocabulary.RDF;
 public class Main {
 	//this my commit - Rauf Agayev
 	//this my commit - Carlos
+	//this my commit - Vugar
 	public static void main(String[] args) {
 		String service = "http://dbpedia.org/sparql";
 		String query = "SELECT" + "*" + "WHERE" + "{"
